@@ -4,7 +4,7 @@ module.exports = function(environment) {
   var ENV = {
     modulePrefix: 'sftptest',
     environment: environment,
-    rootURL: '/',
+    rootURL: '/sftptest',
     locationType: 'auto',
     EmberENV: {
       FEATURES: {
